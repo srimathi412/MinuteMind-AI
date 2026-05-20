@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+MinuteMind/dummy_meeting.wav
+MinuteMind/meeting_report.pdf
